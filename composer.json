@@ -14,6 +14,5 @@
             "NayZawOo\\Utils\\": "src/"
         }
     },
-    "minimum-stability": "dev",
     "require": {}
 }
