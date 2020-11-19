@@ -9,6 +9,11 @@
             "email": "nayzawoo.me@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "NayZawOo\\Utils\\": "src/"
+        }
+    },
     "minimum-stability": "dev",
     "require": {}
 }
