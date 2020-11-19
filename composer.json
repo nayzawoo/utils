@@ -1,0 +1,14 @@
+{
+    "name": "nayzawoo/utils",
+    "description": "Utils",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nayzawoo",
+            "email": "nayzawoo.me@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
